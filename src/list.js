@@ -1,3 +1,7 @@
 class List {
-  // your code here
+  // const all = []
+  constructor(name){
+    this.name = name
+    // all.push(this)
+  }
 }
